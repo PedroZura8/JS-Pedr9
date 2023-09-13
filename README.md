@@ -1,2 +1,2 @@
-# JS-Pedr9
+# JS-Pedro
 Pong no JavaScript
